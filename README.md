@@ -78,16 +78,6 @@ npm start
 # Frontend Will Open At http://localhost:3000
 ```
 
-#### Features
-
-- 📁 **Drag & Drop Upload** - Upload Multiple Candidate Data Files
-- ⚙️ **Config Selection** - Choose Projection Configuration With Live Preview
-- 🔄 **Real-Time Processing** - Transform Data With Progress Indication
-- 📊 **Multiple Views** - Json, Card, And Statistics Tabs
-- ⬇️ **Export Results** - Download Transformed Data As JSON
-- 🎨 **Modern UI** - Built With Material UI, Fully Responsive Design
-- 🔤 **Title-Cased Text** - All UI Elements Use Proper Title Case Formatting
-
 ## Supported Sources
 
 ### Structured Sources
