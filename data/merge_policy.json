@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "description": "Default source priority table for conflict resolution during merge. Higher priority sources win for scalar fields; lower priority sources are merged for list fields.",
+  "field_groups": {
+    "contact": [
+      "ats",
+      "recruiter_csv",
+      "resume",
+      "linkedin",
+      "github",
+      "notes"
+    ],
+    "employment": [
+      "resume",
+      "linkedin",
+      "ats",
+      "notes",
+      "recruiter_csv",
+      "github"
+    ],
+    "skills": [
+      "github",
+      "resume",
+      "linkedin",
+      "ats",
+      "recruiter_csv",
+      "notes"
+    ],
+    "headline": [
+      "linkedin",
+      "github",
+      "resume",
+      "ats",
+      "notes",
+      "recruiter_csv"
+    ],
+    "years_experience": [
+      "resume",
+      "linkedin",
+      "ats",
+      "notes",
+      "github",
+      "recruiter_csv"
+    ],
+    "education": [
+      "resume",
+      "linkedin",
+      "ats",
+      "recruiter_csv",
+      "notes",
+      "github"
+    ]
+  },
+  "notes": {
+    "contact": "ATS = employer record; Recruiter CSV = recent sales interaction",
+    "employment": "Resume = self-reported official history; LinkedIn = secondary confirmation",
+    "skills": "GitHub = demonstrated code + repo topics; Resume = self-reported",
+    "headline": "LinkedIn = curated professional summary",
+    "years_experience": "Resume date-derived = authoritative; LinkedIn = explicit self-report",
+    "education": "Resume = most reliable; LinkedIn = secondary"
+  }
+}

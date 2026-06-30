@@ -1,0 +1,29 @@
+Candidate Notes - Internal Use
+
+Name: Frank Johnson
+Contact: frank.j@temp.mail
+Phone: +44-20-7946-0958
+
+Notes:
+Frank is a backend engineer with about 7 years of experience.
+Recently worked at CloudFirst (acquired company). Strong in Java, Spring, Kubernetes.
+Also skilled in Docker and microservices architecture.
+Looking for senior role at UK-based company.
+
+Location: London, England
+
+---
+
+Candidate: Grace Lee
+Bio: Grace is a product manager interested in tech/healthcare space.
+Email: grace@gracelee.io
+Phone: (415) 555-1234
+Previous: MedTech Solutions as Product Manager (3-5 years)
+Skills mentioned: product strategy, agile, user research
+
+---
+
+Note: Bob Smith mentioned possible visa sponsorship needed.
+Current role: Senior Data Scientist at DataSystems.
+Excellent ML skills, Python, TensorFlow, Pandas.
+3 years at current company. Interested in promotion.

@@ -1,0 +1,50 @@
+{
+  "candidates": [
+    {
+      "candidateName": "Alice Johnson",
+      "contactEmail": "alice.johnson@example.com",
+      "phoneNumbers": ["+1-415-555-2671"],
+      "employer": "AdvancedTech Solutions",
+      "jobTitle": "Senior Software Engineer",
+      "skillTags": ["Python", "Kubernetes", "AWS", "Microservices"],
+      "workHistory": [
+        {
+          "company": "AdvancedTech Solutions",
+          "title": "Senior Software Engineer",
+          "start": "2021-05",
+          "end": null
+        }
+      ]
+    },
+    {
+      "candidateName": "Bob Smith",
+      "contactEmail": "bob@bobsmith.dev",
+      "phoneNumbers": ["555-123-4567"],
+      "employer": "DataSystems Inc",
+      "jobTitle": "Data Scientist",
+      "skillTags": ["Python", "TensorFlow", "SQL", "Pandas"],
+      "workHistory": [
+        {
+          "company": "DataSystems Inc",
+          "title": "Senior Data Scientist",
+          "start": "2020-02"
+        }
+      ]
+    },
+    {
+      "candidateName": "Eva Martinez",
+      "contactEmail": "eva.martinez@mail.com",
+      "phoneNumbers": [],
+      "employer": "StartupXYZ",
+      "jobTitle": "Full Stack Developer",
+      "skillTags": ["React", "Node.js", "MongoDB"],
+      "workHistory": [
+        {
+          "company": "StartupXYZ",
+          "title": "Full Stack Developer",
+          "start": "2023-01"
+        }
+      ]
+    }
+  ]
+}

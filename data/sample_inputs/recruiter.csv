@@ -1,0 +1,5 @@
+name,email,phone,current_company,title
+Alice Johnson,alice.johnson@example.com,+14155552671,TechCorp,Senior Software Engineer
+Bob Smith,bob@bobsmith.dev,(555) 123-4567,DataSystems Inc,Data Scientist
+Carol Williams,,+33123456789,CloudInfra LLC,DevOps Engineer
+Diana Chen,diana.chen@example.com,+886223334444,,Software Architect

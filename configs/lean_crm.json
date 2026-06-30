@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "description": "Lean CRM export: minimal fields for integration with CRM systems",
+  "fields": [
+    {
+      "path": "full_name",
+      "from": "full_name",
+      "type": "string",
+      "required": true
+    },
+    {
+      "path": "primary_email",
+      "from": "emails[0]",
+      "type": "string",
+      "required": true
+    },
+    {
+      "path": "primary_phone",
+      "from": "phones[0]",
+      "type": "string"
+    },
+    {
+      "path": "skills",
+      "from": "skills[].name",
+      "type": "string[]"
+    },
+    {
+      "path": "years_experience",
+      "from": "years_experience",
+      "type": "number"
+    },
+    {
+      "path": "country",
+      "from": "location.country",
+      "type": "string"
+    }
+  ],
+  "include_confidence": true,
+  "include_provenance": false,
+  "on_missing": "null"
+}
